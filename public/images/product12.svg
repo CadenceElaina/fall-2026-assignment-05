@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img">
+<rect width="400" height="400" fill="#eef2f2"/>
+<path d="M120 200 H260 V320 Q260 335 245 335 H135 Q120 335 120 320 Z" fill="#7a9e9f"/><path d="M260 230 L330 170 L340 182 L272 250 Z" fill="#7a9e9f"/><rect x="322" y="158" width="30" height="16" rx="4" transform="rotate(-40 337 166)" fill="#5f8384"/><path d="M150 200 Q190 140 230 200" stroke="#5f8384" stroke-width="14" fill="none"/><rect x="120" y="250" width="140" height="10" fill="#ffffff44"/>
+</svg>

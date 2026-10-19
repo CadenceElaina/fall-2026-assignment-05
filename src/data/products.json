@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Monstera Deliciosa",
+    "price": 42.0,
+    "category": "Foliage",
+    "description": "The classic split-leaf statement plant. Grows fast in bright, indirect light.",
+    "imageUrl": "./images/product1.svg"
+  },
+  {
+    "id": 2,
+    "name": "Boston Fern",
+    "price": 24.5,
+    "category": "Foliage",
+    "description": "Soft, arching fronds that love humidity. Happiest in a bathroom or kitchen.",
+    "imageUrl": "./images/product2.svg"
+  },
+  {
+    "id": 3,
+    "name": "Snake Plant",
+    "price": 29.99,
+    "category": "Foliage",
+    "description": "Upright, striped leaves that tolerate low light and missed waterings.",
+    "imageUrl": "./images/product3.svg"
+  },
+  {
+    "id": 4,
+    "name": "Fiddle Leaf Fig",
+    "price": 58.0,
+    "category": "Foliage",
+    "description": "Broad, glossy leaves on a tall stem. Give it one bright spot and leave it there.",
+    "imageUrl": "./images/product4.svg"
+  },
+  {
+    "id": 5,
+    "name": "String of Pearls",
+    "price": 19.0,
+    "category": "Succulents & Cacti",
+    "description": "Bead-like trailing stems made for hanging planters and high shelves.",
+    "imageUrl": "./images/product5.svg"
+  },
+  {
+    "id": 6,
+    "name": "Echeveria Rosette",
+    "price": 12.5,
+    "category": "Succulents & Cacti",
+    "description": "A tight, blue-green rosette that needs sun and very little water.",
+    "imageUrl": "./images/product6.svg"
+  },
+  {
+    "id": 7,
+    "name": "Bunny Ear Cactus",
+    "price": 16.0,
+    "category": "Succulents & Cacti",
+    "description": "Paddle-shaped pads with a cheerful look. Water about once every two weeks.",
+    "imageUrl": "./images/product7.svg"
+  },
+  {
+    "id": 8,
+    "name": "Lavender Graptoveria",
+    "price": 14.0,
+    "category": "Succulents & Cacti",
+    "description": "A pastel purple succulent that holds its color best on a sunny sill.",
+    "imageUrl": "./images/product8.svg"
+  },
+  {
+    "id": 9,
+    "name": "Peace Lily",
+    "price": 32.0,
+    "category": "Flowering",
+    "description": "White blooms and deep green leaves. It droops to tell you when it is thirsty.",
+    "imageUrl": "./images/product9.svg"
+  },
+  {
+    "id": 10,
+    "name": "African Violet",
+    "price": 15.5,
+    "category": "Flowering",
+    "description": "Compact and fuzzy-leaved, with purple flowers most of the year.",
+    "imageUrl": "./images/product10.svg"
+  },
+  {
+    "id": 11,
+    "name": "Kalanchoe",
+    "price": 18.0,
+    "category": "Flowering",
+    "description": "Clusters of bright orange flowers on a sturdy, easy-care succulent.",
+    "imageUrl": "./images/product11.svg"
+  },
+  {
+    "id": 12,
+    "name": "Copper-Spout Watering Can",
+    "price": 34.0,
+    "category": "Care & Tools",
+    "description": "A one-liter can with a long, narrow spout that reaches under leaves.",
+    "imageUrl": "./images/product12.svg"
+  },
+  {
+    "id": 13,
+    "name": "Terracotta Pot Trio",
+    "price": 27.0,
+    "category": "Care & Tools",
+    "description": "Three breathable clay pots in small, medium and large, with drainage holes.",
+    "imageUrl": "./images/product13.svg"
+  },
+  {
+    "id": 14,
+    "name": "Fine Mist Spray Bottle",
+    "price": 11.0,
+    "category": "Care & Tools",
+    "description": "Raises humidity for ferns and tropicals with an even, gentle mist.",
+    "imageUrl": "./images/product14.svg"
+  },
+  {
+    "id": 15,
+    "name": "Aroid Potting Mix",
+    "price": 16.5,
+    "category": "Care & Tools",
+    "description": "A chunky, fast-draining blend of bark, perlite and coir for tropical plants.",
+    "imageUrl": "./images/product15.svg"
+  }
+]
