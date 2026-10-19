@@ -1,1 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Store | Fern &amp; Fig</title>
+    <link rel="stylesheet" href="./src/styles/main.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="./index.html">
+          <span class="brand-mark" aria-hidden="true">🌿</span>
+          Fern &amp; Fig
+        </a>
+        <nav class="site-nav" aria-label="Main navigation">
+          <a href="./index.html">Home</a>
+          <a href="./about.html">About</a>
+          <a href="./store.html" aria-current="page">Store</a>
+        </nav>
+      </div>
+    </header>
 
+    <main>
+      <section class="page-banner">
+        <div class="container">
+          <h1>Shop the collection</h1>
+          <p>Houseplants, succulents and the tools to care for them.</p>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container">
+          <div id="product-grid" class="product-grid"></div>
+
+          <nav class="pagination" aria-label="Product pages">
+            <button id="prev-button" class="button" type="button">
+              Previous
+            </button>
+            <p id="page-indicator" class="page-indicator" aria-live="polite">
+              Page 1 of 3
+            </p>
+            <button id="next-button" class="button" type="button">Next</button>
+          </nav>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <div>
+          <p class="footer-brand">Fern &amp; Fig</p>
+          <p>&copy; 2026 Fern &amp; Fig Plant Co. All rights reserved.</p>
+        </div>
+        <div>
+          <p class="footer-heading">Store hours</p>
+          <p>Mon to Fri: 10am to 7pm</p>
+          <p>Sat and Sun: 9am to 5pm</p>
+        </div>
+        <div>
+          <p class="footer-heading">Follow us</p>
+          <ul class="social-links">
+            <li><a href="#">Instagram</a></li>
+            <li><a href="#">TikTok</a></li>
+            <li><a href="#">Pinterest</a></li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>
